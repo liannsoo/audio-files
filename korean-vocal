@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Audio</title>
+</head>
+<body style="font-family: sans-serif; padding: 40px; text-align: center;">
+<h2>Audio is playing</h2>
+<p>Return to the survey tab and click Continue to begin reading.</p>
+<audio autoplay controls>
+  <source src="IU%20(%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%B2)%20-%20%E1%84%89%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A5%E1%84%87%E1%85%B3%E1%84%85%E1%85%B5%E1%84%90%E1%85%B5%20(Celebrity)%20(Full%20Audio)%20%5BCelebrity%5D%20(mp3cut.net).mp3" type="audio/mpeg">
+</audio>
+</body>
+</html>
